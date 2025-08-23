@@ -1,0 +1,1 @@
+In this data analytics project using python and SQL. We have used Kaggle API to download the dataset and to data processing and cleaning using pandas and load the data into sql server. Lastly we use SQL to answer some interesting questions.
