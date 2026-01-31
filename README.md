@@ -1,1 +1,2 @@
-In this data analytics project using python and SQL. We have used Kaggle API to download the dataset and to data processing and cleaning using pandas and load the data into sql server. Lastly we use SQL to answer some interesting questions.
+# SQL-Data-Analytics-Project
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
